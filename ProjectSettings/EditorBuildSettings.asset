@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: a366a839bf4199d45a582d265844abf6
+  - enabled: 1
+    path: Assets/Scenes/Cat.unity
+    guid: fc3f4e6430db5f64999f1bb08a0dadc9
+  - enabled: 1
+    path: Assets/Scenes/Chicken.unity
+    guid: 975e287a0eba0744db16cb1851e0993e
+  - enabled: 1
+    path: Assets/Scenes/Cow.unity
+    guid: 312af1450f7135245aec4e77426639fd
+  - enabled: 1
+    path: Assets/Scenes/Dog.unity
+    guid: 99b191d86de0e2345b6642ca0ed38bf0
+  - enabled: 1
+    path: Assets/Scenes/Donkey.unity
+    guid: 3b45677c04a9711428835d6e66eae56a
+  - enabled: 1
+    path: Assets/Scenes/Horse.unity
+    guid: 315a4335353840d47a2164a9377e2328
+  - enabled: 1
+    path: Assets/Scenes/Pig.unity
+    guid: b295e27c6bbaf8842912aac6778f5e11
+  - enabled: 1
+    path: Assets/Scenes/Sheep.unity
+    guid: 22b7374055a507d419330e07cc73f84f
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: f3cf11ff9a9dff64daab6bc6e7bc5e5a
+  - enabled: 1
+    path: Assets/Scenes/Info.unity
+    guid: 5c58435a8079f7b4db7f5f419eabed02
+  - enabled: 1
+    path: Assets/Scenes/GameEnd.unity
+    guid: 581a5c0a58014e54ea13ffa64a6bda1d
+  m_configObjects: {}
